@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-.storybook
+/.storybook
 /.pnp
 .pnp.js
 .idea
